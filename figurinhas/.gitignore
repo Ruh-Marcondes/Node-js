@@ -1,7 +1,8 @@
 # Dependencias Node js
 
 node_modules
-packege-lock.js
+package-lock.js
+package-lock.json
 
 #logs
 

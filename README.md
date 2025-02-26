@@ -1,4 +1,4 @@
-# ReactNative-Note.js
+# Node-js
 
-### Separado por branch
+### Conteudo passado nas aulas de Lab. de banco de dados
 

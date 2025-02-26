@@ -21,4 +21,10 @@ connection
     
 //Model
 
+
+//Acess from other origin -CORs
+app.use((req,res,next) => {
+    res.setHeader('Acess-Control-Allow-Origin','*');
+})
+
 module.exports = app;

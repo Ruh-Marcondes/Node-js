@@ -1,3 +1,5 @@
+//basicamente o crud
+
 const bcrypt  = require("bcryptjs");
 const jwt =  require('jsonwebtoken');
 
@@ -47,5 +49,5 @@ exports.getAll = (req,res,next) =>{
 
 exports.getOne = (req,res,next)=>{
 
-    
+
 }
